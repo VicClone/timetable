@@ -10,7 +10,7 @@ django-fontawesome
 django-redis
 django-rest-swagger
 django-fontawesome
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-camel-case
 google-api-python-client
 httplib2
