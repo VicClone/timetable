@@ -1,4 +1,4 @@
-celery==4.3.0rc2
+celery==5.2.2
 certifi
 Django==2.2
 django-annoying
